@@ -1,3 +1,3 @@
 # demo
 this is demo repository
-Author-Rishu Katiyar
+Author-Rishu
